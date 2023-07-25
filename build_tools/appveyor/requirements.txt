@@ -6,3 +6,4 @@ pytest
 wheel
 wheelhouse_uploader
 pillow
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
